@@ -1,13 +1,13 @@
 {
   "name": "view-english",
-   "productName": "和訳表示サイト",
+  "productName": "和訳表示サイト",
   "version": "4.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron .",
-    "build": "electron-packager . --overwrite"
+    "build": "electron-packager . --overwrite --icon=favicon.ico"
   },
   "repository": {
     "type": "git",
