@@ -1,5 +1,6 @@
 {
   "name": "view-english",
+   "productName": "和訳表示サイト",
   "version": "4.0.8",
   "description": "",
   "main": "index.js",
