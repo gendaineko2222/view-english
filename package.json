@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakkun1121/attack25.git"
+    "url": "git+https://github.com/chakkun1121/view-english.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chakkun1121/attack25/issues"
+    "url": "https://github.com/chakkun1121/view-english/issues"
   },
-  "homepage": "https://github.com/chakkun1121/attack25#readme",
+  "homepage": "https://github.com/chakkun1121/view-english#readme",
   "dependencies": {},
   "devDependencies": {
     "electron": "^22.0.3",
