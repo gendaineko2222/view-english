@@ -1,22 +1,27 @@
 {
   "name": "view-english",
-  "version": "1.0.0",
-  "description": "https://view-english.chakkun1121haru.repl.co からhttps://chakkun1121.github.io/view-english/ に移植完了",
-  "main": "js-cookie.js",
+  "version": "4.0.8",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-packager . --overwrite"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chakkun1121/view-english.git"
+    "url": "git+https://github.com/chakkun1121/attack25.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chakkun1121/view-english/issues"
+    "url": "https://github.com/chakkun1121/attack25/issues"
   },
-  "homepage": "https://github.com/chakkun1121/view-english#readme",
-  "dependencies": {
-    "http-server": "^14.1.1"
+  "homepage": "https://github.com/chakkun1121/attack25#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^22.0.3",
+    "electron-packager": "^17.1.1"
   }
 }
